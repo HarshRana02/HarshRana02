@@ -77,13 +77,6 @@ A results-driven AI Engineer with strong expertise in **LLM-driven applications*
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Winner – International Conference on Intelligent Computing and Networking (2024)**  
-  Awarded for developing an end-to-end insurance aggregator platform with real-time AI features and chatbot integration.
-
----
-
 ## 📬 Let's Connect
 
 📧 Email: harshtrana0210@gmail.com  
